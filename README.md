@@ -9,7 +9,7 @@ Amina — виртуальная операционная система (ОС),
 Чтобы установить эту программу, вам необходимо скопировать этот репозиторий в выбранную вами директорию с помощью команды:
 
 ```git
-git clone https://github.com/Fadis-Fairushin/Amina.git
+git clone https://github.com/tailogs/Amina.git
 ```
 
 ---
